@@ -1,0 +1,14 @@
+import java.util.Scanner;
+public class extra{
+	public static void main(String[] args){
+		System.out.print("Enter the value :");
+		Scanner sc = new Scanner(System.in);
+		int a=sc.nextInt();
+		if(a%2==0){
+		System.out.print("Entered value is even ");
+		}
+		else{
+		System.out.print("Entered value is odd ");
+		}
+	}
+}
