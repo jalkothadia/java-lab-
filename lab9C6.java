@@ -1,0 +1,1 @@
+public class lab9C6
